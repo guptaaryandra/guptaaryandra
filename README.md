@@ -10,6 +10,10 @@
 
 <img src="https://raw.githubusercontent.com/guptaaryandra/guptaaryandra/main/skills.svg" width="100%" alt="Tech Stack">
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/guptaaryandra/guptaaryandra/main/gh-stats.svg" width="100%" alt="GitHub Stats">
+
 </div>
 
 ---
