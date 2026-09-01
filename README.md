@@ -89,16 +89,6 @@ Monitoring & Automation
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaaryandra&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph">
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
