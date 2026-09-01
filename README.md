@@ -99,16 +99,6 @@ Monitoring & Automation
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guptaaryandra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="GitHub Trophies">
-
-</div>
-
----
-
 ## 💡 Random Developer Quote
 
 <div align="center">
