@@ -18,7 +18,7 @@
 
 ### 📈 Contribution Graph
 
-![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
+![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
 
 ### 📊 GitHub Stats
 
