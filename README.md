@@ -6,11 +6,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guptaaryandra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gupta-aryandra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptaaryandra@gmail.com) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptaaryandra/guptaaryandra/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/guptaaryandra/guptaaryandra/output/github-contribution-grid-snake.svg">
-</picture>
-
 ![GitHub space shooter](./game.gif)
 
 # 💻 Tech Stack:
