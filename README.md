@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently learning<br>Kubernetes • Terraform • GitHub Actions • AWS DevOps Practices • CI/CD<br><br>💬 Ask me about<br>DevOps • Docker • Linux • AWS • Kubernetes • Terraform • CI/CD<br><br>⚡ Fun fact<br>I can spend hours automating a task that takes five minutes manually.
 
+![GitHub stats](./profile/stats.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guptaaryandra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gupta-aryandra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptaaryandra@gmail.com) 
