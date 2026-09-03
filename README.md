@@ -10,6 +10,12 @@
 
 ![Skill icons](https://skillicons.dev/icons?i=aws%2Cdocker%2Ckubernetes%2Cterraform%2Clinux%2Cgit%2Cgithubactions%2Cjenkins%2Cprometheus%2Cgrafana%2Cpython%2Cbash%2Cnginx%2Cansible%2Cgithub&perline=10&theme=dark)
 
+### 💭 Random Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+</p>
+
 ### 📈 Contribution Graph
 
 ![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
