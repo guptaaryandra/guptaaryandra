@@ -10,10 +10,13 @@
   <a href="https://github.com/guptaaryandra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/gupta-aryandra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="mailto:guptaaryandra@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://guptaaryandra.vercel.app">
+  <a href="https://guptaaryandra.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
@@ -172,26 +175,6 @@ I'm currently strengthening my skills in **Kubernetes, Terraform, CI/CD, GitHub 
 
 ---
 
-## ⏱️ WakaTime
-
-<div align="center">
-
-<!-- Add your WakaTime username here once your WakaTime profile is active -->
-
-</div>
-
----
-
-## 💡 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
@@ -200,11 +183,15 @@ I'm currently strengthening my skills in **Kubernetes, Terraform, CI/CD, GitHub 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/gupta-aryandra/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:guptaaryandra@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://guptaaryandra.vercel.app">
+<a href="https://guptaaryandra.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
