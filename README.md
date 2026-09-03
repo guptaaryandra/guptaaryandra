@@ -3,10 +3,14 @@
 
 ![GitHub stats](./profile/stats.svg)
 
+## 📊 3D Contribution Graph:
+
+![3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guptaaryandra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gupta-aryandra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptaaryandra@gmail.com) 
 
-## 🚀 Contribution Space Shooter
+## 🚀 Contribution Space Shooter:
 
 ![GitHub space shooter](./game.gif)
 
