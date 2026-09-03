@@ -23,3 +23,8 @@
 ### 📈 Contribution Graph
 
 ![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
+
+
+### 🎮 favorite Game 
+
+![Steam](https://coolreadme.xyz/api/steam-card?game=Red%20Dead%20Redemption%202&genre=Action%2C%20Adventure%2C%20Open%20World&platform=PC&style=library&hours=80h%20played&achievements=29%2F51&lastPlayed=5%20days%20ago&img=https%3A%2F%2Fmedia-rockstargames-com.akamaized.net%2Fmfe6%2Fprod%2F__common%2Fimg%2F4fa75e0ceed48f825ceceab44f0891ac.jpg%3Fim%3DResize%2Cwidth%3D768&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1174180%2FRed_Dead_Redemption_2%2F)
