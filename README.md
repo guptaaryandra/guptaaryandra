@@ -16,10 +16,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </p>
 
-### 📈 Contribution Graph
-
-![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
-
 ### 📊 GitHub Stats
 
 ![Profile stats card](https://kgnio-profile-card.vercel.app/api/card?user=guptaaryandra&theme=midnight)
+
+### 📈 Contribution Graph
+
+![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
