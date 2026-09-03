@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Dynamic Typing Header -->
-  <a href="https://guptaaryandra.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Aryandra+Gupta+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Infrastructure+Automator+%F0%9F%9B%A0%EF%B8%8F;Linux+%26+Cloud+Practitioner+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://github.com/guptaaryandra">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Aryandra+Gupta+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Automating+Infrastructure+%F0%9F%9B%A0%EF%B8%8F;Linux+%26+Cloud+Practitioner+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    Automating scalable infrastructure, streamlining CI/CD pipelines, and architecting resilient cloud systems.
+    Automating resilient infrastructure, streamlining pipelines, and architecting cloud solutions.
   </p>
 
   <!-- Clean Minimal Navigation Badges -->
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧑‍💻 Terminal Session
+### 🧑‍💻 Terminal Session: guptaaryandra@cloud-kernel
 
 ```bash
 > aryandra --profile --summary
@@ -39,6 +39,6 @@
 {
   "engineer": "Aryandra Gupta",
   "focus": ["Cloud Infrastructure", "DevOps", "Site Reliability"],
-  "environment": ["Linux", "AWS", "Docker", "Terraform", "Kubernetes"],
-  "status": "Automating tasks that take 5 minutes manually ⚙️"
+  "stack": ["Linux", "AWS", "Docker", "Terraform", "Kubernetes"],
+  "fun_fact": "Spending hours automating a 5-minute manual task ⚙️"
 }
