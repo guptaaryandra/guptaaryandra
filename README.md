@@ -8,7 +8,7 @@
 
 ### ⚙️ Tech Stack
 
-![Skill icons](https://skillicons.dev/icons?i=aws%2Cdocker%2Cjenkins%2Clinux%2Cgit%2Cgithub%2Cbash%2Cnginx%2C&perline=15&theme=dark)
+![Skill icons](https://skillicons.dev/icons?i=aws%2Cdocker%2Cjenkins%2Clinux%2Cgit%2Cgithub%2Cbash%2Cnginx%2C&perline=8&theme=dark)
 
 ### 💭 Random Quote
 
